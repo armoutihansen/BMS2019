@@ -1,6 +1,6 @@
 # Behavioral Management Science - Introduction to oTree
 ## University of Cologne
-### Summer 2019
+## Summer 2019
 
 ### Lecture slides
 _Note: slides will become avaiable sequentially as the time of session approaches._
@@ -9,6 +9,15 @@ _Note: slides will become avaiable sequentially as the time of session approache
 ### Exercises
 _Note: exercises will become avaiable sequentially as the time of session approaches._
 - Session 1: [Introduction to Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L1.pdf)
+
+### Homework
+_Note: exercises will become avaiable sequentially as the time of session approaches._
+- Due 24.04.19: 
+- Due 01.05.19: 
+
+### Resources
+- [oTree docs](https://www-bcf.usc.edu/~gareth/ISL/)
+- [oTree and Anaconda installation instructions](https://www-bcf.usc.edu/~gareth/ISL/)
 
 
 You can use the [editor on GitHub](https://github.com/jeshan49/bms2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
