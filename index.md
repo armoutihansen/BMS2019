@@ -4,16 +4,19 @@
 
 ### Lecture slides
 _Note: slides will become avaiable sequentially as the time of session approaches._
-- Session 1: [Introduction to Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L1.pdf)
+- Session 1 (03.04.19): 
+- Session 2 (17.04.19): 
+- Session 3 (24.04.19): 
 
 ### Exercises
 _Note: exercises will become avaiable sequentially as the time of session approaches._
-- Session 1: [Introduction to Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L1.pdf)
+- Session 1 (03.04.19): 
+- Session 2 (17.04.19): 
+- Session 3 (24.04.19): 
 
 ### Homework
-_Note: exercises will become avaiable sequentially as the time of session approaches._
-- Due 24.04.19: 
-- Due 01.05.19: 
+- Due 24.04.19: _available on 17.04.19_
+- Due 01.05.19: _available on 24.04.19_
 
 ### Resources
 - [oTree docs](https://www-bcf.usc.edu/~gareth/ISL/)
