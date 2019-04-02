@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Behavioral Management Science - Introduction to oTree
+## University of Cologne
+### Summer 2019
+
+### Lecture slides
+_Note: slides will become avaiable sequentially as the time of session approaches._
+- Session 1: [Introduction to Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L1.pdf)
+
+### Exercises
+_Note: exercises will become avaiable sequentially as the time of session approaches._
+- Session 1: [Introduction to Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L1.pdf)
+
 
 You can use the [editor on GitHub](https://github.com/jeshan49/bms2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
