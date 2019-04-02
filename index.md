@@ -1,4 +1,3 @@
-# Behavioral Management Science - Introduction to oTree
 ## University of Cologne
 ## Summer 2019
 
