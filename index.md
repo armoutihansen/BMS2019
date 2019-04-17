@@ -10,11 +10,11 @@ _Note: slides will become avaiable sequentially as the time of session approache
 ### Exercises
 _Note: exercises will become avaiable sequentially as the time of session approaches._
 - Session 1 (03.04.19): [Python basics](https://raw.githubusercontent.com/jeshan49/bms2019/master/py_basics1.py), Exercises: [html](https://jeshan49.github.io/bms2019/tutorial_one.html), [pdf](https://raw.githubusercontent.com/jeshan49/bms2019/master/tutorial_one.pdf)
-- Session 2 (17.04.19): 
+- Session 2 (17.04.19): [Survey]([html](https://jeshan49.github.io/bms2019/survey_tut (1).html)
 - Session 3 (24.04.19): 
 
 ### Homework
-- Due 24.04.19: _available on 17.04.19_
+- Due 28.04.19: [Homework 1](https://raw.githubusercontent.com/jeshan49/bms2019/master/BMS_HW1_19)
 - Due 01.05.19: _available on 24.04.19_
 
 ### Resources
