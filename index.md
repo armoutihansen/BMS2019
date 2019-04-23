@@ -15,7 +15,7 @@ _Note: exercises will become avaiable sequentially as the time of session approa
 
 ### Homework
 - Due 28.04.19: [Homework 1](https://raw.githubusercontent.com/jeshan49/bms2019/master/BMS_HW1_19.pdf), [__Hints to Homework 1__](https://jeshan49.github.io/bms2019/hints_hw1.html)
-- Due 08.05.19: [Homework 2](https://raw.githubusercontent.com/jeshan49/bms2019/master/BMS_HW2_19.pdf)
+- Due 08.05.19: [Homework 2](https://raw.githubusercontent.com/jeshan49/bms2019/master/BMS_HW2_19.pdf), [instructions image](https://cdn.instructables.com/FIU/AIWE/I7Q0TCUT/FIUAIWEI7Q0TCUT.LARGE.jpg?auto=webp)
 
 ### Resources
 - [oTree docs](https://otree.readthedocs.io/en/latest/)
