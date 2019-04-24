@@ -5,7 +5,7 @@
 _Note: slides will become avaiable sequentially as the time of session approaches._
 - Session 1 (03.04.19): [html](https://jeshan49.github.io/bms2019/session_one.html), [pdf](https://raw.githubusercontent.com/jeshan49/bms2019/master/session_one.pdf)
 - Session 2 (17.04.19): [html](https://jeshan49.github.io/bms2019/session_two.html), [filled](https://jeshan49.github.io/bms2019/session_two_filled.html)
-- Session 3 (24.04.19): 
+- Session 3 (24.04.19): [html](https://jeshan49.github.io/bms2019/session_three.html)
 
 ### Exercises
 _Note: exercises will become avaiable sequentially as the time of session approaches._
